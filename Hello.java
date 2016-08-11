@@ -1,7 +1,7 @@
 public class Hello
 {
 	public static void main(String arts[]){
-		System.out.println("Ô¼»áÂğ");
-		System.out.println("±ØĞëÔ¼»áÔ¼»áÂğ");
+		System.out.println("çº¦ä¼šå—");
+		System.out.println("å¿…é¡»çº¦ä¼šçº¦ä¼šå—");
 	}
 }
